@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohd Rehan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+🔭 I’m currently working on Portfolio site<br><br>🌱 I’m currently learning C++<br><br>👨‍💻 All of my projects are available at https://iakarehan.github.io/portfolio/<br><br>📫 How to reach me rehanaisha28@gmail.com
 
-- 🔭 I’m currently working on [Portfolio site](https://iakarehan.github.io/portfolio/)
 
-- 🌱 I’m currently learning **Html CSS Javascript C++**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rehxnnnnnnnn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithrehxn) 
 
-- 👨‍💻 All of my projects are available at [https://iakarehan.github.io/portfolio/](https://iakarehan.github.io/portfolio/)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iakarehan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iakarehan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iakarehan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **rehanaisha28@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/codewithrehxn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithrehxn/" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=iakarehan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
