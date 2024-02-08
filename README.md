@@ -1,4 +1,4 @@
-### <div align="center">I'm Mohd Rehan, a Frontend developer 👨‍💻</div>  
+### <div align="center">I'm Mohd Rehan, A Frontend Developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Portfolio site](https://github.com/iakarehan/portfolio)  
@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related Technology  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: <b>The world's first electronic computer, the Colossus, was built in 1943.<b>
   
 
 <br/>  
