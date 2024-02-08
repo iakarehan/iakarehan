@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fabdulmuqeet10%2Fhi%2F&psig=AOvVaw2_K20NVWsPrJUommfTNDi8&ust=1707477387570000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi6hIvPm4QDFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Mohd Rehan, a Frontend developer 👨‍💻</div>  
   
 
